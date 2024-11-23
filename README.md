@@ -1,2 +1,2 @@
 # RAG-Revision
-Revising the Basics of RAG
+Partly Revising the Basics of RAG
